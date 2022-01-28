@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 603CA5AE275F96A200228C79 /* Build configuration list for PBXProject "Loteira" */;
+			buildConfigurationList = 603CA5AE275F96A200228C79 /* Build configuration list for PBXProject "Loteria" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -295,7 +295,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.monica.Loteira;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -313,14 +313,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.monica.Loteira;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		603CA5AE275F96A200228C79 /* Build configuration list for PBXProject "Loteira" */ = {
+		603CA5AE275F96A200228C79 /* Build configuration list for PBXProject "Loteria" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				603CA5C5275F96A400228C79 /* Debug */,
